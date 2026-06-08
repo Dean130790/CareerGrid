@@ -1,0 +1,1206 @@
+{
+    "total_count": 100,
+    "jobs": [
+        {
+            "id": "915d7aa3-9b79-4d9f-b49a-159217b07642",
+            "job_title": "Senior SRE",
+            "company_details": {
+                "company_id": "d35b74d7-19f9-4683-9463-942037263294",
+                "company_name": "Stripe",
+                "company_address": "San Francisco, CA, USA"
+            },
+            "salary_range": "$140k - $180k",
+            "job_details": "Build and maintain the Stripe iOS SDK and consumer-facing payment app used by millions globally. Work closely with backend and design teams to ship reliable, high-performance Swift features in an agile environment.",
+            "rank": 1
+        },
+        {
+            "id": "027418df-f9c9-4f0a-a0a0-cb89cca10c7d",
+            "job_title": "Site Reliability Engineer",
+            "company_details": {
+                "company_id": "e2ed2ea6-7f59-44f4-83df-79aeebbf01c2",
+                "company_name": "Revolut",
+                "company_address": "London, UK"
+            },
+            "salary_range": "\u00a390k - \u00a3120k",
+            "job_details": "Lead a team of 5 iOS engineers building next-gen fintech features including crypto wallets, savings vaults, and real-time FX. Drive architecture decisions, code reviews, and cross-platform design patterns.",
+            "rank": 2
+        },
+        {
+            "id": "8282879d-7283-4c2c-9fa7-9d8a9e4c7494",
+            "job_title": "Agile Coach",
+            "company_details": {
+                "company_id": "045ecaa3-6342-4452-90b5-46514b1d0cb5",
+                "company_name": "Airbnb",
+                "company_address": "San Francisco, CA, USA"
+            },
+            "salary_range": "$180k - $230k",
+            "job_details": "Define and evolve the iOS platform strategy across Airbnb's host and guest apps with 100M+ users. Partner with product and data teams to drive experimentation, performance improvements, and A/B testing frameworks.",
+            "rank": 3
+        },
+        {
+            "id": "d21a5211-15eb-44cb-930b-089f55b8a0a1",
+            "job_title": "Android Tech Lead",
+            "company_details": {
+                "company_id": "10350cdb-4c66-4c37-9a43-21cc1848791e",
+                "company_name": "HSBC Technology",
+                "company_address": "London, UK"
+            },
+            "salary_range": "\u00a375k - \u00a395k",
+            "job_details": "Develop secure, accessible iOS banking features for HSBC's retail and commercial mobile apps. Ensure PCI-DSS compliance, robust unit test coverage, and smooth CI/CD pipelines using Fastlane and GitHub Actions.",
+            "rank": 4
+        },
+        {
+            "id": "6983ec92-2ed1-4274-bb18-7e55ad27c673",
+            "job_title": "Cloud Security Engineer",
+            "company_details": {
+                "company_id": "bab38a28-9375-4695-91a9-7c385f329858",
+                "company_name": "Square (Block Inc.)",
+                "company_address": "Oakland, CA, USA"
+            },
+            "salary_range": "$130k - $170k",
+            "job_details": "Own the end-to-end payments flow in the Square Point of Sale iOS app used by 4M+ merchants. Collaborate with hardware and backend teams to integrate card readers, tap-to-pay, and real-time transaction sync.",
+            "rank": 5
+        },
+        {
+            "id": "9bd6e0ab-53ce-4c39-9617-c376951a4f44",
+            "job_title": "ML Engineer",
+            "company_details": {
+                "company_id": "eb551769-30bf-4e7c-b7a2-d01fa3d81188",
+                "company_name": "Thoughtworks",
+                "company_address": "Chicago, IL, USA"
+            },
+            "salary_range": "$120k - $155k",
+            "job_details": "Consult with Fortune 500 clients to architect and deliver high-quality iOS applications using agile practices. Mentor junior engineers and contribute to internal iOS tooling and open-source libraries.",
+            "rank": 6
+        },
+        {
+            "id": "0b660295-0899-4a8a-93c6-efbb4a1bac52",
+            "job_title": "Lead iOS Engineer",
+            "company_details": {
+                "company_id": "e0215460-22d6-4d29-bec2-e0007ef9773c",
+                "company_name": "Spotify",
+                "company_address": "Stockholm, Sweden"
+            },
+            "salary_range": "SEK 80k - 105k/month",
+            "job_details": "Build performant audio and video streaming experiences on iOS for 600M+ Spotify users. Own feature areas like podcast playback, offline downloads, and Now Playing UI using Swift and Combine.",
+            "rank": 7
+        },
+        {
+            "id": "405b3ff5-9e92-49ae-bea7-60b7e1ca40ac",
+            "job_title": "UI/UX Designer",
+            "company_details": {
+                "company_id": "d3e78732-5a25-455a-abc0-e1e38885984d",
+                "company_name": "Paytm",
+                "company_address": "Noida, India"
+            },
+            "salary_range": "\u20b940L - \u20b960L",
+            "job_details": "Lead architecture and delivery of the Paytm SuperApp iOS client for 330M+ users across payments, banking, and commerce. Drive modularisation, Swift 6 migration, and performance benchmarking initiatives.",
+            "rank": 8
+        },
+        {
+            "id": "753d63d9-1b7c-49a5-986e-8dbefabb0230",
+            "job_title": "UI Engineer",
+            "company_details": {
+                "company_id": "772d5b7d-f2e2-44b6-925f-b05905df582b",
+                "company_name": "Nubank",
+                "company_address": "S\u00e3o Paulo, Brazil"
+            },
+            "salary_range": "BRL 25k - 35k/month",
+            "job_details": "Design and ship iOS features for Nubank's digital banking app serving 90M customers in Latin America. Champion clean architecture, testability, and accessibility standards across the mobile team.",
+            "rank": 9
+        },
+        {
+            "id": "2e45e8f2-31e2-4b1e-aa39-9271e3762fe5",
+            "job_title": "Enterprise Sales Manager",
+            "company_details": {
+                "company_id": "349ffbc9-f45c-402c-921c-762a2a45f09f",
+                "company_name": "Teladoc Health",
+                "company_address": "Purchase, NY, USA"
+            },
+            "salary_range": "$115k - $145k",
+            "job_details": "Develop HIPAA-compliant iOS features integrating HealthKit, CareKit, and wearable data for Teladoc's telehealth platform. Collaborate with clinical and backend teams to deliver real-time health monitoring dashboards.",
+            "rank": 10
+        },
+        {
+            "id": "16fef839-4d67-49a2-9f17-153931fbef97",
+            "job_title": "Growth Marketing Manager",
+            "company_details": {
+                "company_id": "633df8ac-18bd-49ca-86f2-891a8302df90",
+                "company_name": "Monzo Bank",
+                "company_address": "London, UK"
+            },
+            "salary_range": "\u00a380k - \u00a3100k",
+            "job_details": "Build customer-facing features in SwiftUI for Monzo's award-winning mobile banking app. Work in autonomous squads to ship savings, loans, and budgeting tools to 9M+ UK customers.",
+            "rank": 11
+        },
+        {
+            "id": "e07ef18b-630f-453f-ab6d-b86ca9110453",
+            "job_title": "Senior Frontend Developer",
+            "company_details": {
+                "company_id": "57327650-63e5-4143-b1f6-674671c21c1a",
+                "company_name": "Grab",
+                "company_address": "Singapore"
+            },
+            "salary_range": "SGD $120k - $160k",
+            "job_details": "Lead a cross-functional iOS team building Grab's super-app covering rides, food delivery, and digital payments for Southeast Asia. Own platform reliability, modular architecture, and release governance.",
+            "rank": 12
+        },
+        {
+            "id": "6d3abc93-5013-4e01-a7f8-950941801276",
+            "job_title": "Analytics Engineer",
+            "company_details": {
+                "company_id": "bb17c2af-a695-450e-ba97-bf6e5aac2111",
+                "company_name": "Uber",
+                "company_address": "San Francisco, CA, USA"
+            },
+            "salary_range": "$150k - $200k",
+            "job_details": "Develop real-time mapping, routing, and navigation experiences in the Uber rider and driver iOS apps. Work with geospatial data engineers to optimise MapKit rendering and GPS accuracy at global scale.",
+            "rank": 13
+        },
+        {
+            "id": "f546c39e-aea8-458e-a9e0-b256591d7466",
+            "job_title": "QA Engineer",
+            "company_details": {
+                "company_id": "e0b2881c-27fb-463e-b251-a7e26d8d5521",
+                "company_name": "Lemonade Inc.",
+                "company_address": "New York, NY, USA"
+            },
+            "salary_range": "$125k - $160k",
+            "job_details": "Build AI-powered insurance claim and policy management flows in Lemonade's iOS app using Swift and SwiftUI. Integrate chat, computer vision, and push notifications to deliver instant claim approvals.",
+            "rank": 14
+        },
+        {
+            "id": "9fa86d8d-a7f4-473c-a2cf-b9949446b76d",
+            "job_title": "Digital Marketing Manager",
+            "company_details": {
+                "company_id": "62eefef7-4268-4981-89c6-43746ea03e38",
+                "company_name": "Toptal",
+                "company_address": "Remote \u2013 Worldwide"
+            },
+            "salary_range": "$80 - $150/hour",
+            "job_details": "Deliver contract iOS development work for Toptal's global network of elite clients across fintech, healthcare, and e-commerce. Must have strong communication skills and the ability to ramp up quickly on unfamiliar codebases.",
+            "rank": 15
+        },
+        {
+            "id": "a9ed22bc-e278-4904-ad05-99a211d61825",
+            "job_title": "Kubernetes Engineer",
+            "company_details": {
+                "company_id": "0e8dc37c-15cc-4fa5-9da7-a630a695b5fa",
+                "company_name": "Razorpay",
+                "company_address": "Bengaluru, India"
+            },
+            "salary_range": "\u20b935L - \u20b955L",
+            "job_details": "Build and scale the Razorpay iOS SDK used by thousands of merchants for seamless payment integration. Own SDK versioning, backward compatibility, and comprehensive unit/UI testing across iOS versions.",
+            "rank": 16
+        },
+        {
+            "id": "6292ed49-1c49-49d1-84e5-b5db82eba5e2",
+            "job_title": "Data Scientist",
+            "company_details": {
+                "company_id": "73467546-55ba-4309-b9ad-9c06e306b31f",
+                "company_name": "DXC Technology",
+                "company_address": "Tysons, VA, USA"
+            },
+            "salary_range": "$130k - $160k",
+            "job_details": "Lead iOS delivery for enterprise clients in sports, media, and aviation verticals. Define engineering standards, manage offshore teams, and present technical roadmaps to C-suite stakeholders.",
+            "rank": 17
+        },
+        {
+            "id": "d3aac759-9615-4067-859f-e327acc570ba",
+            "job_title": "Release Manager",
+            "company_details": {
+                "company_id": "1b37b899-21b2-4f21-85c7-df58c6b85170",
+                "company_name": "Byju's",
+                "company_address": "Bengaluru, India"
+            },
+            "salary_range": "\u20b930L - \u20b950L",
+            "job_details": "Build engaging iOS learning experiences including video playback, interactive quizzes, and offline content delivery for 150M+ students. Optimise app launch time, crash rates, and network performance.",
+            "rank": 18
+        },
+        {
+            "id": "1250a13d-bd2c-427b-8269-1827cbe41bb2",
+            "job_title": "Email Marketing Specialist",
+            "company_details": {
+                "company_id": "7743aebd-c942-4f6c-82a6-a30b30b76432",
+                "company_name": "Snap Inc.",
+                "company_address": "Santa Monica, CA, USA"
+            },
+            "salary_range": "$140k - $185k",
+            "job_details": "Develop ARKit-powered camera lenses and social AR features for Snapchat's iOS app used by 750M daily users. Collaborate with ML engineers to ship real-time face tracking and 3D world effects.",
+            "rank": 19
+        },
+        {
+            "id": "21c79578-1c22-4309-9000-5fd7cc20d77f",
+            "job_title": "Senior DevOps Engineer",
+            "company_details": {
+                "company_id": "b0e83927-5cdf-4202-8eaa-bd0460802c6f",
+                "company_name": "Commonwealth Bank of Australia",
+                "company_address": "Sydney, Australia"
+            },
+            "salary_range": "AUD $130k - $165k",
+            "job_details": "Develop features for the CommBank iOS app, Australia's #1 rated banking app with 7M+ users. Focus areas include biometric authentication, open banking APIs, and real-time spend notifications.",
+            "rank": 20
+        },
+        {
+            "id": "46f7f394-14a5-4605-b72e-b120e01a744d",
+            "job_title": "Full Stack Developer",
+            "company_details": {
+                "company_id": "7376f4c6-4582-45ff-af5b-8423a3713111",
+                "company_name": "PhonePe",
+                "company_address": "Bengaluru, India"
+            },
+            "salary_range": "\u20b935L - \u20b955L",
+            "job_details": "Build and scale UPI payment flows, mutual fund investments, and insurance features in the PhonePe iOS app for 500M+ users. Drive Swift concurrency adoption and modular architecture standards.",
+            "rank": 21
+        },
+        {
+            "id": "bb38b84b-844b-4714-8cfe-c2a3c2c24266",
+            "job_title": "Lead Backend Engineer",
+            "company_details": {
+                "company_id": "92c2f0a4-13ad-4bca-ac99-660825ef22c1",
+                "company_name": "PayPal",
+                "company_address": "San Jose, CA, USA"
+            },
+            "salary_range": "$145k - $190k",
+            "job_details": "Lead the iOS Wallet team responsible for balance management, send/receive money, and crypto features for PayPal's 400M+ account holders. Drive modularisation, testing automation, and release processes.",
+            "rank": 22
+        },
+        {
+            "id": "bc19933d-06d7-4bc1-966e-561f9a5617e7",
+            "job_title": "Lead Full Stack Developer",
+            "company_details": {
+                "company_id": "ad5b4a20-c3a7-4de7-b40f-4c4d65353012",
+                "company_name": "Shopify",
+                "company_address": "Ottawa, Canada"
+            },
+            "salary_range": "CAD $130k - $165k",
+            "job_details": "Build the Shopify POS and merchant iOS apps used to manage inventory, process sales, and track analytics for 2M+ merchants worldwide. Own SwiftUI migration and CoreData sync performance.",
+            "rank": 23
+        },
+        {
+            "id": "6e2580d9-a3bf-427d-9049-c00e519062e3",
+            "job_title": "AR/VR Developer",
+            "company_details": {
+                "company_id": "37f79329-2861-4dac-afc2-bded854575b1",
+                "company_name": "Pinterest",
+                "company_address": "San Francisco, CA, USA"
+            },
+            "salary_range": "$135k - $175k",
+            "job_details": "Develop the core iOS feed, search, and image recognition features for Pinterest's visual discovery platform with 500M users. Focus on scroll performance, image loading pipelines, and UIKit to SwiftUI migration.",
+            "rank": 24
+        },
+        {
+            "id": "5f41366f-c364-434b-99d9-e0af4b49b507",
+            "job_title": "Account Executive",
+            "company_details": {
+                "company_id": "edff10d2-2899-4a98-9647-3f4870f1eae1",
+                "company_name": "Ola Electric",
+                "company_address": "Bengaluru, India"
+            },
+            "salary_range": "\u20b928L - \u20b945L",
+            "job_details": "Build the Ola Electric iOS app connecting riders to EV scooters, charging stations, and vehicle telemetry. Implement BLE connectivity, location services, and real-time battery monitoring features.",
+            "rank": 25
+        },
+        {
+            "id": "7284977a-bb58-4da6-b305-349a752952ee",
+            "job_title": "Senior Data Scientist",
+            "company_details": {
+                "company_id": "4b32daa9-2527-447e-9203-668db6ea6d9f",
+                "company_name": "Booking.com",
+                "company_address": "Amsterdam, Netherlands"
+            },
+            "salary_range": "\u20ac80k - \u20ac110k",
+            "job_details": "Build and optimise hotel search, booking flows, and trip management features in Booking.com's iOS app. Own A/B testing integration, deep-link routing, and multi-language localisation.",
+            "rank": 26
+        },
+        {
+            "id": "fdd7f977-5b2f-4677-b238-044bc36fa207",
+            "job_title": "Senior Engineering Manager",
+            "company_details": {
+                "company_id": "9be44c75-4e49-4026-a537-3d144f55242a",
+                "company_name": "Dream11",
+                "company_address": "Mumbai, India"
+            },
+            "salary_range": "\u20b940L - \u20b965L",
+            "job_details": "Lead the iOS team delivering real-time fantasy sports contests for 160M+ users during live cricket, football, and kabaddi matches. Drive low-latency UI updates, crash-free rates, and App Store rating improvements.",
+            "rank": 27
+        },
+        {
+            "id": "d386caee-8f1f-4edf-9cbf-2ea6f1623c8c",
+            "job_title": "Ruby on Rails Developer",
+            "company_details": {
+                "company_id": "c90182da-c0bd-47bf-89f2-faf34a7b7fa2",
+                "company_name": "Wise (TransferWise)",
+                "company_address": "London, UK"
+            },
+            "salary_range": "\u00a380k - \u00a3105k",
+            "job_details": "Build transparent international money transfer and multi-currency wallet features in Wise's iOS app for 16M customers. Champion test-driven development, accessibility, and continuous deployment practices.",
+            "rank": 28
+        },
+        {
+            "id": "14aa2361-d502-4406-a890-3dcc7e69da5e",
+            "job_title": "Technical Lead",
+            "company_details": {
+                "company_id": "f398157b-546b-4063-ab0e-3aea180f728b",
+                "company_name": "HERE Technologies",
+                "company_details": "Chicago, IL, USA",
+                "company_address": "Chicago, IL, USA"
+            },
+            "salary_range": "$120k - $155k",
+            "job_details": "Build real-time turn-by-turn navigation, traffic, and EV routing features into HERE's iOS SDK used by automotive OEMs globally. Work closely with map data and ML teams on predictive routing algorithms.",
+            "rank": 29
+        },
+        {
+            "id": "4a313193-a163-4955-bbd5-4ecced89422e",
+            "job_title": "Full Stack Architect",
+            "company_details": {
+                "company_id": "ca76e27d-3a32-4b77-97dc-6ad75346c7e5",
+                "company_name": "Zerodha",
+                "company_address": "Bengaluru, India"
+            },
+            "salary_range": "\u20b935L - \u20b955L",
+            "job_details": "Build fast, reliable stock trading and investment features in Kite iOS app for 10M+ active traders. Deliver WebSocket-driven live market data, charting tools, and GTT order management with sub-second latency.",
+            "rank": 30
+        },
+        {
+            "id": "ec3c99db-4980-43ca-9774-1677ae775c87",
+            "job_title": "Senior Mobile Engineer",
+            "company_details": {
+                "company_id": "eb848249-f9f9-4241-82eb-6ff6a40f047c",
+                "company_name": "Adobe",
+                "company_address": "San Jose, CA, USA"
+            },
+            "salary_range": "$145k - $190k",
+            "job_details": "Develop creative mobile tools including photo editing, PDF workflows, and document scanning in Adobe's iOS app suite. Collaborate with machine learning teams to integrate real-time AI-powered filters and effects.",
+            "rank": 31
+        },
+        {
+            "id": "ef26a0d1-e5fe-4b81-8711-2485c45ab53b",
+            "job_title": "Senior Data Engineer",
+            "company_details": {
+                "company_id": "21422042-e335-4ed7-9058-744a7f8b24f8",
+                "company_name": "Practo",
+                "company_address": "Bengaluru, India"
+            },
+            "salary_range": "\u20b930L - \u20b950L",
+            "job_details": "Lead iOS development for Practo's doctor consultation, medical records, and pharmacy delivery features serving 100M+ patients across India and Southeast Asia. Ensure HIPAA-aligned data security and smooth EHR integrations.",
+            "rank": 32
+        },
+        {
+            "id": "f4751765-69f3-4138-bf51-9dad36516af5",
+            "job_title": "SDET",
+            "company_details": {
+                "company_id": "b7b6b8ee-2908-48d0-85ac-d01a8b2eb2f0",
+                "company_name": "BBC Studios",
+                "company_address": "London, UK"
+            },
+            "salary_range": "\u00a370k - \u00a390k",
+            "job_details": "Build and maintain the BBC iPlayer iOS app delivering live and on-demand video content to millions across the UK. Focus on AVFoundation, adaptive bitrate streaming, and accessibility for visually impaired users.",
+            "rank": 33
+        },
+        {
+            "id": "a3199955-90b0-4353-b94c-bfac6b8c37ee",
+            "job_title": "Penetration Tester",
+            "company_details": {
+                "company_id": "72cd0349-a3e4-4843-a0df-561040432fd1",
+                "company_name": "Coinbase",
+                "company_address": "San Francisco, CA, USA"
+            },
+            "salary_range": "$150k - $195k",
+            "job_details": "Build secure iOS features for Coinbase's crypto exchange and self-custody wallet app. Own end-to-end biometric auth, transaction signing, and real-time portfolio tracking for 100M+ verified users.",
+            "rank": 34
+        },
+        {
+            "id": "40da86cd-df50-4434-9f54-177da9bed8cd",
+            "job_title": "SEO Specialist",
+            "company_details": {
+                "company_id": "3d52c68d-caee-4f35-87b4-74542d3a1af0",
+                "company_name": "Infosys BPM",
+                "company_address": "Pune, India"
+            },
+            "salary_range": "\u20b925L - \u20b940L",
+            "job_details": "Develop iOS features for banking and insurance clients as part of Infosys's digital transformation practice. Own full SDLC including requirements, architecture, development, QA, and App Store submissions.",
+            "rank": 35
+        },
+        {
+            "id": "8869d389-c93a-43e6-b1b3-a1c5f4fb4df8",
+            "job_title": "Infrastructure Engineer",
+            "company_details": {
+                "company_id": "a0ce527e-a8b4-417f-b9f9-4d1d2312b9b7",
+                "company_name": "Accenture",
+                "company_address": "Dublin, Ireland"
+            },
+            "salary_range": "\u20ac85k - \u20ac115k",
+            "job_details": "Lead iOS delivery for Accenture's financial services and public sector clients across Europe. Define mobile architecture standards, mentor junior developers, and liaise with enterprise solution architects.",
+            "rank": 36
+        },
+        {
+            "id": "e7ab06c5-45d2-47f6-8944-4b4d744becad",
+            "job_title": "IoT Engineer",
+            "company_details": {
+                "company_id": "b474474b-2c9b-4544-bf3f-3bad19d9054d",
+                "company_name": "Zomato",
+                "company_address": "Gurugram, India"
+            },
+            "salary_range": "\u20b930L - \u20b950L",
+            "job_details": "Build and optimise restaurant discovery, cart, and live order tracking features in the Zomato iOS app for 100M+ users. Focus on map rendering performance, push notifications, and A/B experiment frameworks.",
+            "rank": 37
+        },
+        {
+            "id": "5bf52fa4-237b-47a0-a012-3f2080304fac",
+            "job_title": "AI Engineer",
+            "company_details": {
+                "company_id": "d0b592fd-6264-48a7-903f-6c467817870e",
+                "company_name": "Klarna",
+                "company_address": "Stockholm, Sweden"
+            },
+            "salary_range": "SEK 85k - 115k/month",
+            "job_details": "Build buy-now-pay-later checkout flows, shopping feed, and loyalty features in Klarna's iOS app for 150M global shoppers. Drive smooth animations, deep-link commerce integrations, and App Clips adoption.",
+            "rank": 38
+        },
+        {
+            "id": "804ed6d2-446e-4e78-bcc0-d611cc13582f",
+            "job_title": "Software Architect",
+            "company_details": {
+                "company_id": "8adfe751-fd66-4ef0-b289-99bbecdcc04b",
+                "company_name": "CrowdStrike",
+                "company_address": "Austin, TX, USA"
+            },
+            "salary_range": "$130k - $165k",
+            "job_details": "Develop the Falcon for Mobile iOS agent that monitors enterprise device security, detects threats, and enforces MDM policies. Work with security researchers on low-level system API integrations and kernel extension alternatives on iOS.",
+            "rank": 39
+        },
+        {
+            "id": "02f32a7c-33a8-4f4e-b5da-8143b9d23e45",
+            "job_title": "React Developer",
+            "company_details": {
+                "company_id": "435ebdcc-55d4-40da-93ea-2a8128cd8364",
+                "company_name": "Globant",
+                "company_address": "Buenos Aires, Argentina"
+            },
+            "salary_range": "USD $60k - $90k",
+            "job_details": "Work on iOS projects for global clients in banking, sports, and entertainment verticals from Globant's digital studio. Contribute to architecture design, code reviews, and agile delivery across distributed teams.",
+            "rank": 40
+        },
+        {
+            "id": "ae1421c8-7341-49d6-8cd8-b87005c182da",
+            "job_title": "DevOps Engineer",
+            "company_details": {
+                "company_id": "b9d3fb26-860a-472c-8204-e74b07e86cef",
+                "company_name": "FedEx",
+                "company_address": "Memphis, TN, USA"
+            },
+            "salary_range": "$125k - $160k",
+            "job_details": "Lead iOS development for FedEx's delivery driver and customer tracking apps handling 15M+ shipments daily. Build barcode scanning, offline mode, route optimisation, and real-time delivery ETA features.",
+            "rank": 41
+        },
+        {
+            "id": "60afe05c-10f3-48bf-86c4-8a0f3ce405c1",
+            "job_title": "Python Developer",
+            "company_details": {
+                "company_id": "0cc634a4-2a53-4428-b5d0-b50178539c96",
+                "company_name": "Zillow Group",
+                "company_address": "Seattle, WA, USA"
+            },
+            "salary_range": "$135k - $175k",
+            "job_details": "Build home search, virtual tours, and mortgage calculator features in the Zillow iOS app for 200M+ monthly visitors. Champion map performance, real-time listing updates, and SwiftUI component library adoption.",
+            "rank": 42
+        },
+        {
+            "id": "b59f18e9-9ca4-4300-943c-a9fef8eb09e4",
+            "job_title": "AWS Solutions Architect",
+            "company_details": {
+                "company_id": "df4e0045-0cf1-4f98-8d80-6e9e5c45e03b",
+                "company_name": "Garmin",
+                "company_address": "Olathe, KS, USA"
+            },
+            "salary_range": "$110k - $145k",
+            "job_details": "Develop the Garmin Connect iOS companion app syncing fitness, sleep, and GPS activity data from Garmin wearables via Bluetooth LE. Own HealthKit integration, background sync, and watchOS extensions.",
+            "rank": 43
+        },
+        {
+            "id": "a0a7f7c1-57f0-4556-b44f-416b8e018f7d",
+            "job_title": "Azure DevOps Engineer",
+            "company_details": {
+                "company_id": "8baad783-5d53-47df-a99d-514d73034df3",
+                "company_name": "MakeMyTrip",
+                "company_address": "Gurugram, India"
+            },
+            "salary_range": "\u20b928L - \u20b945L",
+            "job_details": "Build flight, hotel, and holiday booking flows in MakeMyTrip's iOS app for 50M+ travellers in India and globally. Own payment gateway integrations, dynamic pricing UI, and offline booking confirmation.",
+            "rank": 44
+        },
+        {
+            "id": "b8cfe814-a3f3-49ae-96c0-b94dbcc45a6b",
+            "job_title": "Staff Frontend Engineer",
+            "company_details": {
+                "company_id": "5f1ffd10-ffa0-40cf-83de-27f584aaef19",
+                "company_name": "Meesho",
+                "company_address": "Bengaluru, India"
+            },
+            "salary_range": "\u20b930L - \u20b950L",
+            "job_details": "Build seller-facing reselling tools and buyer shopping flows for Meesho's iOS app serving 140M+ users in tier-2 and tier-3 Indian cities. Focus on low-bandwidth optimisation, vernacular language support, and COD checkout.",
+            "rank": 45
+        },
+        {
+            "id": "de47edc9-35d1-45a5-97dc-dc62346e0a4e",
+            "job_title": "Product Manager",
+            "company_details": {
+                "company_id": "a78d1b3b-aeba-4605-a9c0-656dda798702",
+                "company_name": "Lyft",
+                "company_address": "San Francisco, CA, USA"
+            },
+            "salary_range": "$150k - $195k",
+            "job_details": "Lead the Lyft driver iOS app platform team, owning the architecture for earnings tracking, navigation integration, and ride acceptance flows. Mentor a team of 6 engineers and drive quarterly roadmap planning.",
+            "rank": 46
+        },
+        {
+            "id": "03e09f9b-2510-46a7-91f9-26d9ca0a7d5f",
+            "job_title": "Security Engineer",
+            "company_details": {
+                "company_id": "883166e9-a94d-4361-99fe-0f1c777650fc",
+                "company_name": "Deutsche Bank",
+                "company_address": "Frankfurt, Germany"
+            },
+            "salary_range": "\u20ac80k - \u20ac110k",
+            "job_details": "Develop secure mobile banking features for Deutsche Bank's retail and private banking iOS apps. Work within a regulated financial environment ensuring GDPR, PSD2, and accessibility compliance.",
+            "rank": 47
+        },
+        {
+            "id": "4ebe84ad-67ff-4647-9922-1cc5ef213820",
+            "job_title": "Performance Test Engineer",
+            "company_details": {
+                "company_id": "b73f0432-cf5a-458c-8ce2-020e460335a4",
+                "company_name": "Notion Labs",
+                "company_address": "San Francisco, CA, USA"
+            },
+            "salary_range": "$140k - $180k",
+            "job_details": "Build and optimise the Notion iOS app's offline editing, block rendering, and collaborative real-time sync for 30M+ global users. Champion SwiftUI performance, smooth scroll experience, and widget extensions.",
+            "rank": 48
+        },
+        {
+            "id": "0b2b082f-fd88-43de-9cfd-d5861448d121",
+            "job_title": "Mobile Platform Engineer",
+            "company_details": {
+                "company_id": "339aeaf7-ab65-4ea7-9f27-cd5ebd97b715",
+                "company_name": "Tesla",
+                "company_address": "Austin, TX, USA"
+            },
+            "salary_range": "$145k - $190k",
+            "job_details": "Develop the Tesla iOS companion app for remote vehicle control, charging management, and energy monitoring. Integrate with vehicle APIs and BLE to deliver sub-second response for features like pre-conditioning and sentry mode.",
+            "rank": 49
+        },
+        {
+            "id": "91d82541-f1d0-425b-ad5e-0fb2bb24f867",
+            "job_title": "MEAN Stack Developer",
+            "company_details": {
+                "company_id": "bc69eca3-b50a-4dca-8160-d5fb578490d0",
+                "company_name": "Hotstar (Disney+)",
+                "company_address": "Mumbai, India"
+            },
+            "salary_range": "\u20b935L - \u20b955L",
+            "job_details": "Build live sports, drama, and Disney+ content streaming features in the Hotstar iOS app for 50M+ premium subscribers. Own AVPlayer integration, adaptive bitrate algorithms, and low-latency live event broadcast.",
+            "rank": 50
+        },
+        {
+            "id": "2e27c762-d3a8-4bcc-a5e8-4e65caa95c17",
+            "job_title": "Game Developer",
+            "company_details": {
+                "company_id": "091395d6-6f46-4e28-a5d9-58aa4dd898d9",
+                "company_name": "Mastercard",
+                "company_address": "New York, NY, USA"
+            },
+            "salary_range": "$145k - $185k",
+            "job_details": "Lead iOS development for Mastercard's consumer digital wallet and merchant acceptance products. Drive NFC tap-to-pay, tokenization, and biometric cardholder verification features across iOS and watchOS.",
+            "rank": 51
+        },
+        {
+            "id": "c6c2e28a-cc61-4e7a-9b37-77c796c15c4a",
+            "job_title": "Data Engineer",
+            "company_details": {
+                "company_id": "68f75f9f-309a-4837-9a21-87b37949ee57",
+                "company_name": "Swiggy",
+                "company_address": "Bengaluru, India"
+            },
+            "salary_range": "\u20b932L - \u20b952L",
+            "job_details": "Build food discovery, cart, and real-time delivery tracking features in Swiggy's iOS app for 80M+ customers. Own map rendering, push notification personalisation, and in-app loyalty rewards integration.",
+            "rank": 52
+        },
+        {
+            "id": "9e44ee82-c130-4c5d-8565-0ba3ff2f76a1",
+            "job_title": "Staff iOS Developer",
+            "company_details": {
+                "company_id": "b00d2cb1-3239-4738-ae89-e3875a80cb74",
+                "company_name": "Philips Hue (Signify)",
+                "company_address": "Eindhoven, Netherlands"
+            },
+            "salary_range": "\u20ac75k - \u20ac100k",
+            "job_details": "Build the Philips Hue iOS app controlling smart lights, scenes, and automation routines via HomeKit and proprietary BLE/Zigbee bridges. Integrate with Siri Shortcuts, Widgets, and the broader Apple Home ecosystem.",
+            "rank": 53
+        },
+        {
+            "id": "cf43c858-d2af-4033-9574-fdfc42fd8b77",
+            "job_title": "Machine Learning Engineer",
+            "company_details": {
+                "company_id": "24257b75-d278-4a1b-982a-47d42897e4a9",
+                "company_name": "Capgemini",
+                "company_address": "Paris, France"
+            },
+            "salary_range": "\u20ac75k - \u20ac100k",
+            "job_details": "Deliver iOS solutions for Capgemini's enterprise clients in banking, automotive, and energy sectors across Europe. Own technical architecture proposals, sprint deliverables, and client stakeholder communication.",
+            "rank": 54
+        },
+        {
+            "id": "4499f756-cfd2-4b00-a500-3abfbfe77906",
+            "job_title": "Senior Web Developer",
+            "company_details": {
+                "company_id": "5bc8dcc9-7449-4605-805b-534451aa42c7",
+                "company_name": "Telegram",
+                "company_address": "Dubai, UAE"
+            },
+            "salary_range": "$120k - $160k",
+            "job_details": "Build and optimise iOS messaging, media sharing, group calls, and mini-app features in the Telegram client for 800M+ monthly active users. Focus on performance, end-to-end encryption UX, and cross-platform consistency.",
+            "rank": 55
+        },
+        {
+            "id": "b447a7cd-6d0f-485b-9954-3f92cdbc352c",
+            "job_title": "Cloud Engineer",
+            "company_details": {
+                "company_id": "b034a168-42bf-45df-bba6-11f42c365f99",
+                "company_name": "Digit Insurance",
+                "company_address": "Bengaluru, India"
+            },
+            "salary_range": "\u20b930L - \u20b950L",
+            "job_details": "Lead iOS development for Digit's self-service insurance app covering health, motor, and travel policies. Own claim selfie-video capture, document OCR, and policy lifecycle management features.",
+            "rank": 56
+        },
+        {
+            "id": "73b3e7ad-1311-46ce-8153-cd8a12ba8219",
+            "job_title": "Automation Test Engineer",
+            "company_details": {
+                "company_id": "bd84ea51-6301-479a-b1de-cdba64d11daf",
+                "company_name": "Amplitude",
+                "company_address": "San Francisco, CA, USA"
+            },
+            "salary_range": "$130k - $170k",
+            "job_details": "Build the Amplitude iOS SDK and internal analytics dashboards used by product teams at thousands of companies. Drive instrumentation reliability, event batching, and session replay capabilities.",
+            "rank": 57
+        },
+        {
+            "id": "73fe51cd-d828-4f02-a4aa-14a37b08da85",
+            "job_title": "Technical Product Manager",
+            "company_details": {
+                "company_id": "2c60eb36-10a9-4a3d-a2f2-0c4dd1d9a9c8",
+                "company_name": "Barclays",
+                "company_address": "London, UK"
+            },
+            "salary_range": "\u00a375k - \u00a3100k",
+            "job_details": "Develop retail and business banking features in the Barclays iOS app for 20M+ UK customers. Focus areas include Open Banking integrations, biometric login, card freeze, and spend categorisation.",
+            "rank": 58
+        },
+        {
+            "id": "55030074-b9ea-40c3-881f-0ad10b0b16e9",
+            "job_title": "Java Developer",
+            "company_details": {
+                "company_id": "22ff5038-7b76-4efb-b11c-3c220a823791",
+                "company_name": "Dropbox",
+                "company_address": "San Francisco, CA, USA"
+            },
+            "salary_range": "$130k - $165k",
+            "job_details": "Build file sync, offline access, and collaborative editing features in Dropbox's iOS app for 700M+ registered users. Own background upload/download, conflict resolution logic, and Files.app integration.",
+            "rank": 59
+        },
+        {
+            "id": "837c6074-c380-4df0-993a-e141133633c1",
+            "job_title": "Application Security Engineer",
+            "company_details": {
+                "company_id": "7bee53f5-4730-4621-ad2f-adfa15379934",
+                "company_name": "Ather Energy",
+                "company_address": "Bengaluru, India"
+            },
+            "salary_range": "\u20b928L - \u20b945L",
+            "job_details": "Build the Ather iOS companion app for EV health monitoring, trip planning, and charging station discovery. Integrate with vehicle ECU via BLE and REST APIs to surface real-time battery and motor diagnostics.",
+            "rank": 60
+        },
+        {
+            "id": "e8bc32de-2102-4955-b92d-366fbc39e265",
+            "job_title": "Node.js Developer",
+            "company_details": {
+                "company_id": "cf09303b-fed0-4a6d-8d6b-2c525dbd0f90",
+                "company_name": "Flipkart",
+                "company_address": "Bengaluru, India"
+            },
+            "salary_range": "\u20b940L - \u20b965L",
+            "job_details": "Lead the iOS platform team at Flipkart building scalable e-commerce features for 400M+ customers. Drive module federation, dynamic feature flags, and iOS 17 widget adoption across Flipkart's super-app.",
+            "rank": 61
+        },
+        {
+            "id": "05282d6c-5f21-49fc-8f91-54031d0dc518",
+            "job_title": "Flutter Developer",
+            "company_details": {
+                "company_id": "3cb4e151-bfcb-4307-a1f6-d4b4276789a2",
+                "company_name": "Bose Corporation",
+                "company_address": "Framingham, MA, USA"
+            },
+            "salary_range": "$115k - $150k",
+            "job_details": "Build the Bose iOS companion app for headphone and speaker configuration, firmware updates, and spatial audio setup. Integrate CoreBluetooth, AVAudioSession, and custom DSP control interfaces.",
+            "rank": 62
+        },
+        {
+            "id": "3ca05233-3b73-49a9-b9c8-244956afcbd7",
+            "job_title": "React Native Developer",
+            "company_details": {
+                "company_id": "8e17735f-a20e-459a-9a57-b63b5a21e086",
+                "company_name": "AgroStar",
+                "company_address": "Pune, India"
+            },
+            "salary_range": "\u20b920L - \u20b935L",
+            "job_details": "Build iOS tools for farmers including crop advisory, agri-input shopping, and satellite imagery analysis in vernacular languages. Optimise for low RAM devices and intermittent network conditions in rural India.",
+            "rank": 63
+        },
+        {
+            "id": "8e1b4d85-4e8b-4869-85a7-15aec7542c31",
+            "job_title": "Senior Product Manager",
+            "company_details": {
+                "company_id": "6ce134e9-67de-40bc-adb0-85cd1b459e14",
+                "company_name": "Visa Inc.",
+                "company_address": "Foster City, CA, USA"
+            },
+            "salary_range": "$145k - $190k",
+            "job_details": "Build Visa's developer-facing SDK and Visa Direct iOS integration libraries used by banks and fintechs globally. Own API client design, network security, and comprehensive integration test suites.",
+            "rank": 64
+        },
+        {
+            "id": "58fe6e1b-3f23-4649-b6eb-ef71de39eb87",
+            "job_title": "Engineering Manager",
+            "company_details": {
+                "company_id": "4cda866a-33cd-4f02-bf5f-ea1f39739b69",
+                "company_name": "NoBroker",
+                "company_address": "Bengaluru, India"
+            },
+            "salary_range": "\u20b928L - \u20b945L",
+            "job_details": "Lead iOS delivery for NoBroker's property search, rental agreements, and home services app. Integrate map-based search, virtual property tours, and e-sign workflows for India's largest broker-free platform.",
+            "rank": 65
+        },
+        {
+            "id": "79ab8a3b-f9ab-4439-9c30-603cc66a01a2",
+            "job_title": "Lead UI/UX Developer",
+            "company_details": {
+                "company_id": "bbdbf1a5-dc01-44cd-a148-cd18468e9783",
+                "company_name": "N26",
+                "company_address": "Berlin, Germany"
+            },
+            "salary_range": "\u20ac80k - \u20ac110k",
+            "job_details": "Build mobile banking features for N26's European challenger bank iOS app with 8M+ customers. Work in autonomous squads on account opening, IBAN payments, spaces savings, and premium subscription flows.",
+            "rank": 66
+        },
+        {
+            "id": "b800b1bd-92ed-45c8-9a20-c662a635fd79",
+            "job_title": "Technical Sales Specialist",
+            "company_details": {
+                "company_id": "8801d38c-a0b7-486c-9183-5bd754647a37",
+                "company_name": "Calm",
+                "company_address": "San Francisco, CA, USA"
+            },
+            "salary_range": "$120k - $155k",
+            "job_details": "Build guided meditation, sleep stories, and breathing exercise features in the Calm iOS app for 100M+ downloads. Integrate HealthKit sleep data, Siri Shortcuts, and StoreKit subscription management.",
+            "rank": 67
+        },
+        {
+            "id": "d635fd33-a739-4013-aa98-9e64c2af4330",
+            "job_title": "Platform Engineer",
+            "company_details": {
+                "company_id": "3797e6e5-c56a-4196-9cba-e2efb6307734",
+                "company_name": "Salesforce",
+                "company_address": "San Francisco, CA, USA"
+            },
+            "salary_range": "$140k - $180k",
+            "job_details": "Build Salesforce Mobile iOS features for CRM, Sales Cloud, and Field Service Lightning used by 150,000+ enterprise clients. Own offline data sync, push-triggered workflows, and MDM-managed app configurations.",
+            "rank": 68
+        },
+        {
+            "id": "44172c91-a4d0-4c5e-a212-a93d39f9d9e8",
+            "job_title": "Scrum Master",
+            "company_details": {
+                "company_id": "0a1d478e-e6eb-4cfd-bac5-6b17c1538591",
+                "company_name": "HCL Technologies",
+                "company_address": "Noida, India"
+            },
+            "salary_range": "\u20b928L - \u20b945L",
+            "job_details": "Lead iOS development for HCL's enterprise mobility projects across BFSI, healthcare, and retail clients. Own technical proposals, architecture reviews, team delivery, and client escalation management.",
+            "rank": 69
+        },
+        {
+            "id": "db97e8d6-630b-4f0c-a557-bc37cc532824",
+            "job_title": "Senior Backend Developer",
+            "company_details": {
+                "company_id": "20a77072-63ce-4e0e-a8f1-887e4f249298",
+                "company_name": "Twilio",
+                "company_address": "San Francisco, CA, USA"
+            },
+            "salary_range": "$135k - $175k",
+            "job_details": "Build Twilio's iOS Voice, Video, and Conversations SDKs used by thousands of developers to add real-time communication to their apps. Drive API ergonomics, Swift concurrency adoption, and comprehensive documentation.",
+            "rank": 70
+        },
+        {
+            "id": "380fe571-84d7-4b03-8766-899f94522c67",
+            "job_title": "Senior iOS Developer",
+            "company_details": {
+                "company_id": "cebea7fa-9737-4f87-8bf0-0775a90e8513",
+                "company_name": "ServiceNow",
+                "company_address": "Santa Clara, CA, USA"
+            },
+            "salary_range": "$140k - $185k",
+            "job_details": "Develop the ServiceNow Mobile iOS app for IT service management, field operations, and HR workflows in Fortune 500 enterprises. Own MDM integration, offline forms, and custom UI component library.",
+            "rank": 71
+        },
+        {
+            "id": "49f220a2-c01d-4bf7-97f1-726a09ce3d48",
+            "job_title": "Blockchain Developer",
+            "company_details": {
+                "company_id": "ee31737b-62bc-49dd-8ed4-cb32dbd50ade",
+                "company_name": "MPL (Mobile Premier League)",
+                "company_address": "Bengaluru, India"
+            },
+            "salary_range": "\u20b928L - \u20b945L",
+            "job_details": "Build real-time multiplayer game lobbies, tournament brackets, and wallet features in the MPL iOS app for 90M+ gamers across India and the US. Optimise for low-latency WebSocket connections and smooth 60fps gameplay.",
+            "rank": 72
+        },
+        {
+            "id": "4cc5a4f9-6149-4762-a9aa-a7d153e5a4ce",
+            "job_title": "Senior QA Engineer",
+            "company_details": {
+                "company_id": "2d6df69a-50bd-435d-9432-fd8a23ee1f27",
+                "company_name": "Poshmark",
+                "company_address": "Redwood City, CA, USA"
+            },
+            "salary_range": "$125k - $160k",
+            "job_details": "Build social commerce features including live selling, listing creation, and buyer-seller messaging in the Poshmark iOS app for 130M+ users. Own camera-driven listing flow, image enhancement, and push engagement.",
+            "rank": 73
+        },
+        {
+            "id": "730fc1e9-5721-4c23-a184-d543413c3cca",
+            "job_title": "Database Administrator",
+            "company_details": {
+                "company_id": "19a3237d-2383-4811-891e-2042dc3c01fc",
+                "company_name": "Gojek",
+                "company_address": "Jakarta, Indonesia"
+            },
+            "salary_range": "IDR 25M - 40M/month",
+            "job_details": "Lead iOS teams building ride-hailing, food delivery, and GoPayments features for Gojek's super-app in Southeast Asia. Drive platform stability, Swift migration, and cross-squad component sharing.",
+            "rank": 74
+        },
+        {
+            "id": "659cf93e-ea61-4e06-87d5-b188e0efeefc",
+            "job_title": "Data Analyst",
+            "company_details": {
+                "company_id": "3b26f687-0d23-4426-878e-267e17007db7",
+                "company_name": "Navi Technologies",
+                "company_address": "Bengaluru, India"
+            },
+            "salary_range": "\u20b930L - \u20b950L",
+            "job_details": "Build instant personal loan, mutual fund, and health insurance iOS features for Navi's digital finance app. Drive video KYC, Aadhaar e-sign integration, and underwriting decision display for first-time borrowers.",
+            "rank": 75
+        },
+        {
+            "id": "b004c39b-6d8f-499b-be2a-fb94dbf0a288",
+            "job_title": "Head of Product",
+            "company_details": {
+                "company_id": "95e1e848-d7b3-4c3d-927d-d9b4dc3603b9",
+                "company_name": "Roku",
+                "company_address": "San Jose, CA, USA"
+            },
+            "salary_range": "$130k - $165k",
+            "job_details": "Build the Roku iOS companion app for TV remote control, content search, private listening, and screen mirroring. Own BLE/Wi-Fi device discovery, deep-link content launches, and Apple Watch extension.",
+            "rank": 76
+        },
+        {
+            "id": "01f2487d-99c1-4165-8a4a-3a804af375f6",
+            "job_title": "Go Engineer",
+            "company_details": {
+                "company_id": "32bcfb16-d140-492a-99f4-8f41de00f432",
+                "company_name": "Headspace",
+                "company_address": "Santa Monica, CA, USA"
+            },
+            "salary_range": "$115k - $150k",
+            "job_details": "Build mindfulness, stress management, and focus session features in the Headspace iOS app for 70M+ users globally. Integrate HealthKit mindful minutes, motion tracking, and adaptive in-app messaging.",
+            "rank": 77
+        },
+        {
+            "id": "adcd2f05-eb54-4a67-857d-9f1c4f0cf59a",
+            "job_title": "Product Designer",
+            "company_details": {
+                "company_id": "5d754042-e766-4641-b70b-8d3d643916af",
+                "company_name": "GitHub (Microsoft)",
+                "company_address": "San Francisco, CA, USA"
+            },
+            "salary_range": "$145k - $190k",
+            "job_details": "Build the GitHub iOS app for code review, issue tracking, notifications, and CI/CD monitoring for 100M+ developer users. Own deep-link routing, code syntax highlighting, and Markdown rendering pipeline.",
+            "rank": 78
+        },
+        {
+            "id": "13f59648-670a-4003-94ef-bd8007909802",
+            "job_title": "VP of Engineering",
+            "company_details": {
+                "company_id": "077007ca-53b6-49c0-8bd4-742e40a8bc52",
+                "company_name": "LVMH",
+                "company_address": "Paris, France"
+            },
+            "salary_range": "\u20ac85k - \u20ac115k",
+            "job_details": "Lead iOS development across LVMH's luxury brand apps including Louis Vuitton, Dior, and Sephora. Define mobile UX patterns, localisation strategies, and secure in-app purchase flows for high-value customers.",
+            "rank": 79
+        },
+        {
+            "id": "b4d863aa-7838-4842-89e8-1d1dad566407",
+            "job_title": "Sales Engineer",
+            "company_details": {
+                "company_id": "181d3495-1ddf-4a68-8502-b5b33b13b17a",
+                "company_name": "CRED",
+                "company_address": "Bengaluru, India"
+            },
+            "salary_range": "\u20b935L - \u20b955L",
+            "job_details": "Build premium credit card bill payment, rewards, and CRED Pay features for CRED's iOS app used by 12M+ high-credit-score members. Drive exceptional UI quality, haptic feedback, and motion design standards.",
+            "rank": 80
+        },
+        {
+            "id": "44d7f179-6533-4233-8e38-12db48a415d0",
+            "job_title": "Cybersecurity Analyst",
+            "company_details": {
+                "company_id": "96a09cb0-097b-408e-85a7-eecb55342618",
+                "company_name": "Maersk",
+                "company_address": "Copenhagen, Denmark"
+            },
+            "salary_range": "DKK 80k - 105k/month",
+            "job_details": "Build container tracking, booking, and documentation management tools in Maersk's iOS logistics app for global shipping customers. Integrate barcode scanning, geofencing, and offline sync for port operations.",
+            "rank": 81
+        },
+        {
+            "id": "085032ec-81d5-4928-83c8-9527035e1a3f",
+            "job_title": "Principal Engineer",
+            "company_details": {
+                "company_id": "eb5f9cb2-f68f-4a8a-97d4-cc1bb7599410",
+                "company_name": "BharatPe",
+                "company_address": "New Delhi, India"
+            },
+            "salary_range": "\u20b928L - \u20b945L",
+            "job_details": "Build merchant-facing payment acceptance, business loan, and POS features in BharatPe's iOS app for 12M+ Indian merchants. Integrate UPI, QR code scanning, and GST-compliant invoicing workflows.",
+            "rank": 82
+        },
+        {
+            "id": "57c8c5f1-6419-4b61-a1c0-67ae81bd4b8b",
+            "job_title": "Senior Software Engineer",
+            "company_details": {
+                "company_id": "f58e1eb1-30c4-4c57-92bb-e30ea680cb21",
+                "company_name": "Darwinbox",
+                "company_address": "Hyderabad, India"
+            },
+            "salary_range": "\u20b928L - \u20b945L",
+            "job_details": "Lead iOS development for Darwinbox's HCM platform covering attendance, leave, payroll, and performance reviews for 850+ enterprise clients. Own biometric punch-in, geo-fencing, and offline mode for field employees.",
+            "rank": 83
+        },
+        {
+            "id": "73a3dc16-473b-4514-b63c-03833157f5a8",
+            "job_title": "Director of Engineering",
+            "company_details": {
+                "company_id": "5130b002-1fa7-4016-91cb-ea04e3be39d1",
+                "company_name": "Boeing",
+                "company_address": "Arlington, VA, USA"
+            },
+            "salary_range": "$125k - $160k",
+            "job_details": "Develop iOS tools for Boeing's maintenance crews and flight operations teams in hangar and cockpit environments. Build offline-first aircraft inspection checklists, technical manual viewers, and AR-guided repair workflows.",
+            "rank": 84
+        },
+        {
+            "id": "fbaf8429-d366-44fd-aeab-6839b8cea500",
+            "job_title": "Embedded Systems Engineer",
+            "company_details": {
+                "company_id": "2f0a74f5-5ee7-4798-884e-20a43b8044ae",
+                "company_name": "Josh Talks",
+                "company_address": "New Delhi, India"
+            },
+            "salary_range": "\u20b918L - \u20b930L",
+            "job_details": "Build short motivational video content, live sessions, and job discovery features in Josh Talks iOS app targeting Hindi-speaking youth. Optimise for low-bandwidth streaming and feature phone-level hardware constraints.",
+            "rank": 85
+        },
+        {
+            "id": "7fc46ebe-36f1-4ca8-8d95-7097ef28177a",
+            "job_title": "Lead Android Engineer",
+            "company_details": {
+                "company_id": "c5809be8-7bc8-4886-9248-4caaa4e0036f",
+                "company_name": "Stats Perform",
+                "company_address": "Chicago, IL, USA"
+            },
+            "salary_range": "$110k - $145k",
+            "job_details": "Build iOS sports data visualisations, live scoring, and predictive analytics dashboards for media rights holders and team clients. Integrate real-time data feeds, WebSocket streams, and advanced charting libraries.",
+            "rank": 86
+        },
+        {
+            "id": "ae428a3b-6dba-4b21-a5e5-8d0569578da8",
+            "job_title": "Business Intelligence Developer",
+            "company_details": {
+                "company_id": "36ae71f9-e569-4d04-9ff4-558df73155db",
+                "company_name": "Zalando",
+                "company_address": "Berlin, Germany"
+            },
+            "salary_range": "\u20ac80k - \u20ac110k",
+            "job_details": "Build fashion discovery, try-on AR, and checkout flows in Zalando's iOS app for 50M+ European shoppers. Own product image loading pipelines, search relevance feedback loops, and returns management UX.",
+            "rank": 87
+        },
+        {
+            "id": "cc1bed51-2b57-4291-93df-58511542cd1e",
+            "job_title": "Content Marketing Manager",
+            "company_details": {
+                "company_id": "48a61ec1-c42d-4139-ac28-36f674435939",
+                "company_name": "upGrad",
+                "company_address": "Mumbai, India"
+            },
+            "salary_range": "\u20b930L - \u20b950L",
+            "job_details": "Lead iOS development for upGrad's online higher education platform serving 3M+ learners globally. Build live classes, assignment submission, peer discussion, and career mentorship features with excellent AV quality.",
+            "rank": 88
+        },
+        {
+            "id": "f66278e3-b3f0-4608-a1a7-14f265db0057",
+            "job_title": "Lead Frontend Engineer",
+            "company_details": {
+                "company_id": "21815bf4-af99-4e9c-b431-ae5ce2b0d382",
+                "company_name": "OpenAI",
+                "company_address": "San Francisco, CA, USA"
+            },
+            "salary_range": "$160k - $220k",
+            "job_details": "Build ChatGPT iOS app features including voice mode, image input, plugin discovery, and GPT-4 streaming responses. Work at the intersection of cutting-edge LLM APIs and delightful mobile UX for 100M+ users.",
+            "rank": 89
+        },
+        {
+            "id": "14f9aa7c-e02d-4770-bd2c-0ad5b7f47f66",
+            "job_title": "UX Designer",
+            "company_details": {
+                "company_id": "f8d49722-fb6d-4b6e-90ed-4bc80df6cb27",
+                "company_name": "Toast Inc.",
+                "company_address": "Boston, MA, USA"
+            },
+            "salary_range": "$130k - $165k",
+            "job_details": "Build restaurant point-of-sale, kitchen display, and online ordering features in Toast's iOS app used by 100,000+ restaurant locations. Integrate receipt printers, card terminals, and real-time kitchen routing.",
+            "rank": 90
+        },
+        {
+            "id": "602a61a4-a3a2-4884-91bd-5800a79c8bbe",
+            "job_title": "Enterprise Architect",
+            "company_details": {
+                "company_id": "fcb087db-3c4c-439f-b6d2-0caae7f1c424",
+                "company_name": "ShareChat",
+                "company_address": "Bengaluru, India"
+            },
+            "salary_range": "\u20b930L - \u20b950L",
+            "job_details": "Build vernacular short video, social feed, and creator monetisation features in ShareChat's iOS app for 325M monthly users across 15 Indian languages. Drive video recording pipeline performance and feed ranking feedback.",
+            "rank": 91
+        },
+        {
+            "id": "6eedd6cf-f465-4a5b-af2f-5b96533e92da",
+            "job_title": "Vue.js Developer",
+            "company_details": {
+                "company_id": "c8668c6b-02b0-42a0-99f4-bf048296fe67",
+                "company_name": "Tata Digital",
+                "company_address": "Mumbai, India"
+            },
+            "salary_range": "\u20b940L - \u20b965L",
+            "job_details": "Lead iOS architecture for the Tata Neu super-app integrating Tata's retail, aviation, hospitality, and fintech brands. Drive micro-frontend module federation, cross-brand single sign-on, and NeuCoin loyalty engine.",
+            "rank": 92
+        },
+        {
+            "id": "41eca6e8-6187-47d7-bb54-f0845c57094c",
+            "job_title": "Frontend Architect",
+            "company_details": {
+                "company_id": "d9824d67-ff8f-49d3-8f36-03d52dc7b57c",
+                "company_name": "NIC (National Informatics Centre)",
+                "company_address": "New Delhi, India"
+            },
+            "salary_range": "\u20b918L - \u20b930L",
+            "job_details": "Build iOS citizen services for Indian government initiatives including DigiLocker, UMANG, and Aarogya Setu. Ensure accessibility for users with disabilities, support for 22 official languages, and offline document storage.",
+            "rank": 93
+        },
+        {
+            "id": "52057e73-51ed-42d2-a383-f10beb391829",
+            "job_title": "Staff Software Engineer",
+            "company_details": {
+                "company_id": "a335ab2e-0d88-4b8b-b6ee-2e8dfbab5d31",
+                "company_name": "Niantic",
+                "company_address": "San Francisco, CA, USA"
+            },
+            "salary_range": "$135k - $175k",
+            "job_details": "Build AR gameplay features, real-world map layers, and social mechanics for Niantic's location-based games including Pok\u00e9mon GO and Ingress. Work with ARKit, GPS fusion, and Lightship AR SDK for world-scale rendering.",
+            "rank": 94
+        },
+        {
+            "id": "95091b3e-f5da-4d8a-b1a7-5a64dce02784",
+            "job_title": "Senior Full Stack Engineer",
+            "company_details": {
+                "company_id": "8e57c7d8-4c81-42c7-a63d-3fe60ef96bb9",
+                "company_name": "Razorthink AI",
+                "company_address": "Atlanta, GA, USA"
+            },
+            "salary_range": "$100k - $135k",
+            "job_details": "Build native iOS modules bridged to Flutter for Razorthink's enterprise AI product suite. Own Swift platform channel implementations, native camera/BLE integrations, and Flutter embedding in UIKit hosts.",
+            "rank": 95
+        },
+        {
+            "id": "b4f6e215-cfdf-4485-b0a7-cbfff7813119",
+            "job_title": "MERN Stack Developer",
+            "company_details": {
+                "company_id": "6d586bab-54cd-4f3a-a97b-5b5884a164ce",
+                "company_name": "LegalZoom",
+                "company_address": "Glendale, CA, USA"
+            },
+            "salary_range": "$120k - $155k",
+            "job_details": "Build document creation, e-signature, and legal service subscription flows in the LegalZoom iOS app. Integrate PDF annotation, DocuSign APIs, and attorney consultation scheduling for SMB and consumer clients.",
+            "rank": 96
+        },
+        {
+            "id": "6def5747-2a7f-4594-b000-b6ab88a6597c",
+            "job_title": "Senior DBA",
+            "company_details": {
+                "company_id": "f19a2566-715b-45b6-8e0a-1f17a8a8af9c",
+                "company_name": "Rapido",
+                "company_address": "Bengaluru, India"
+            },
+            "salary_range": "\u20b928L - \u20b945L",
+            "job_details": "Lead iOS development for Rapido's bike-taxi, auto, and cab booking app for 25M+ users across 100 Indian cities. Own real-time driver matching, map animations, and surge pricing display for two-and three-wheeler rides.",
+            "rank": 97
+        },
+        {
+            "id": "78b6f0f4-2227-4fe1-a4f3-bb3b93f15783",
+            "job_title": "Senior Android Developer",
+            "company_details": {
+                "company_id": "453f156e-0805-4563-b423-37aa0c4fdf53",
+                "company_name": "Zeta (Directi)",
+                "company_address": "Mumbai, India"
+            },
+            "salary_range": "\u20b930L - \u20b950L",
+            "job_details": "Build iOS features for Zeta's modern core banking and employee benefits platform powering ICICI Bank and SBI Card programs. Own card issuance journeys, spend analytics, and reimbursement claim workflows.",
+            "rank": 98
+        },
+        {
+            "id": "7c87f20f-f51e-447f-989d-1ab200634dd3",
+            "job_title": "Angular Developer",
+            "company_details": {
+                "company_id": "a88a8ad9-d9a1-4960-9e75-50017e9de4df",
+                "company_name": "Foyr",
+                "company_address": "San Francisco, CA, USA"
+            },
+            "salary_range": "$110k - $145k",
+            "job_details": "Build ARKit-powered room scanning, 3D furniture placement, and interior design visualisation in Foyr's iOS app for home design professionals and consumers. Integrate RealityKit, LiDAR depth data, and cloud render pipelines.",
+            "rank": 99
+        },
+        {
+            "id": "e995ba2a-1a68-48ef-bc17-94f0b64689a7",
+            "job_title": "Solutions Consultant",
+            "company_details": {
+                "company_id": "323ede51-3fe2-4f5b-a1f1-1289f63067fc",
+                "company_name": "Apple",
+                "company_address": "Cupertino, CA, USA"
+            },
+            "salary_range": "$200k - $280k",
+            "job_details": "Work on core iOS system frameworks, UIKit, or first-party apps at Apple. Define APIs used by millions of third-party developers, drive internal architecture standards, and push the boundaries of what's possible on Apple silicon.",
+            "rank": 100
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+  "configurations" : [
+    {
+      "id" : "F503876B-EF5C-4067-9D8F-F8201A59C16B",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "commandLineArgumentEntries" : [
+      {
+        "argument" : "-mock"
+      }
+    ],
+    "performanceAntipatternCheckerEnabled" : true,
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:CareerGrid.xcodeproj",
+      "identifier" : "F5BAF7332FD52E0D0009E281",
+      "name" : "CareerGrid"
+    }
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:CareerGrid\/Package\/NetworkingKit",
+        "identifier" : "NetworkingKitTests",
+        "name" : "NetworkingKitTests"
+      }
+    },
+    {
+      "parallelizable" : true,
+      "target" : {
+        "containerPath" : "container:CareerGrid.xcodeproj",
+        "identifier" : "F5BAF7422FD52E0F0009E281",
+        "name" : "CareerGridTests"
+      }
+    }
+  ],
+  "version" : 1
+}
