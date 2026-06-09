@@ -10,6 +10,12 @@ import SwiftData
 
 @main
 struct CareerGridApp: App {
+    
+    init() {
+        BGSyncManager.shared.register()
+        BGSyncManager.shared.scheduleRefresh()
+    }
+
     var body: some Scene {
         WindowGroup {
             RootView()
