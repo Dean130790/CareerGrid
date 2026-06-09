@@ -34,6 +34,7 @@ struct SearchCellView: View {
             }
             .frame(maxWidth: .infinity)
             .padding(.vertical, 12)
+            .contentShape(Rectangle())
         }
         .buttonStyle(.plain)
     }
