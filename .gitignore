@@ -1,0 +1,37 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Xcode user data
+*.xcuserstate
+xcuserdata/
+
+# Xcode debugger / breakpoints
+xcdebugger/
+
+# Scheme management (auto-generated, not shared)
+xcschemes/xcschememanagement.plist
+
+# Build artifacts
+DerivedData/
+build/
+*.o
+*.d
+
+# Swift Package Manager
+.build/
+.swiftpm/
+
+# CocoaPods (if you ever add it)
+Pods/
+Podfile.lock
+
+# Fastlane (if added later)
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+
+# Credentials — never push
+*.p12
+*.mobileprovision
